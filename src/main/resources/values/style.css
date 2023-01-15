@@ -1,0 +1,14 @@
+.border_corners_btn{
+    -fx-background-radius:40;
+    -fx-background-color:#DADADA;
+    -fx-graphic: url(/add.png);
+    -fx-content-display: left;
+}
+.border_menu{
+    -fx-background-radius:0 20 20 0;
+    -fx-background-color:#10141C;
+}
+.border_img{
+    -fx-background-radius:40;
+    -fx-border-color:#26B893;
+}
